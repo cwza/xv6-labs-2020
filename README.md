@@ -1,4 +1,4 @@
-# Environment Setup
+# xv6-labs-2020 Environment Setup
 * Course: https://pdos.csail.mit.edu/6.828/2020/
 
 ## Clone This Repository
