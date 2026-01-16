@@ -7,9 +7,10 @@
 ## Install Dependencies
 * Use Ubuntu 20.04
 ``` sh
-sudo apt-get install git build-essential gdb-multiarch qemu-system-misc gcc-riscv64-linux-gnu binutils-riscv64-linux-gnu
-sudo apt-get remove qemu-system-misc
-sudo apt-get install qemu-system-misc=1:4.2-3ubuntu6
+sudo apt install git build-essential gdb-multiarch qemu-system-misc gcc-riscv64-linux-gnu binutils-riscv64-linux-gnu
+sudo apt remove qemu-system-misc
+sudo apt install qemu-system-misc=1:4.2-3ubuntu6
+sudo apt install python-is-python3
 ```
 
 ## Run xv6
